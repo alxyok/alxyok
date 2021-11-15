@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Welcome to my slice of world. 
+I am a hands-on engineer interested in many curious stuff including deep learning, and especially: 
+* Graph neural nets because graphs are flexible, powerful, and naturally emerge as the go-to representation tool in a variety of scenarii
+* Physics-informed ML that ensure fundamental physics properties are captured by the neural model
+
 <!--
 **alxyok/alxyok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
