@@ -7,7 +7,7 @@ ___I am a hands-on engineer___ interested in many curious stuff including deep l
 * GNNs, GCNs, GATs, GraphUNets. Because graphs are flexible, powerful, and naturally emerge in a multitude of real-life situations.
 * Physics-informed ML that ensure fundamental physics properties are effectively captured by the neural model.
 
-Most of the public code reflects the efforts I've dedicated to exploring exciting tech the hard way — expect dev quality no more. In here, I tend to beat the `tradeoff(exploration, exploitation)` in favor of the former.
+Most of the public code reflects the efforts I've dedicated to exploring exciting tech the hard way — expect dev quality no more. In here, I tend to crush the exploration vs. exploitation tradeoff in favor of the former in the sake of thirst for knowledge.
 
 This place is the opportunity for me to contribute the Internet's noise.
 
