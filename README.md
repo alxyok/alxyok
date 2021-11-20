@@ -12,7 +12,6 @@ Most of the public code reflects the efforts I've dedicated to exploring excitin
 This place is the opportunity for me to contribute the Internet's noise.
 
 Roadmap:
-* (immediate-term) Explore Netflix's Metaflow with a data pre-processing UC (Methane combustion dataset).
 * (immediate-term) Push a full stacked PyTorch + PyG + Lightning + Ray.tune + WandB net implem.
 * (short-term) Play with Fourier Neural Operators (FNO).
 * (short-term) Implement a Differentiable Physics-informed Graph Network (DPGN) in PyG, possibly push to official repo.
