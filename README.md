@@ -9,7 +9,7 @@ ___I am a hands-on engineer___ interested in many curious stuff including deep l
 
 Most of the public code reflects the efforts I've dedicated to exploring exciting tech the hard way, just because I understand by doing mostly — expect dev quality no more. In here, I tend to crush the exploration vs. exploitation tradeoff in favor of the former in the sake of thirst for knowledge.
 
-This place is the opportunity for me to contribute the Internet's noise.
+This place is the opportunity for me to peacefully contribute the Internet's noise.
 
 Roadmap:
 * (immediate-term) Push a full stacked PyTorch + PyG + Lightning + Ray.tune + WandB net implem.
