@@ -12,10 +12,10 @@ Most of the public code reflects the efforts I've dedicated to exploring excitin
 This place is the opportunity for me to peacefully contribute the Internet's noise.
 
 Roadmap:
-* (immediate-term) Push a full stacked PyTorch + PyG + Lightning + Ray.tune + WandB net implem.
-* (short-term) Play with Fourier Neural Operators (FNO).
+* (short-term) Play with Fourier Neural Operators (FNO) and Darcy's Flow.
 * (short-term) Implement a Differentiable Physics-informed Graph Network (DPGN) in PyG, possibly push to official repo.
 * (medium-term) Document graphnets bibliography.
+* (medium-term) Play with TensorRT?
 * (medium-term) Clean and push PoX.
 * (long-term) Experiment a toy-example w/ GANs, and w/ Deep RL.
 
