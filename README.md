@@ -11,14 +11,6 @@ Most of the public code reflects the efforts I've dedicated to exploring excitin
 
 This place is the opportunity for me to peacefully contribute the Internet's noise.
 
-Roadmap:
-* (short-term) Play with Fourier Neural Operators (FNO) and Darcy's Flow.
-* (short-term) Implement a Differentiable Physics-informed Graph Network (DPGN) in PyG, possibly push to official repo.
-* (medium-term) Document graphnets bibliography.
-* (medium-term) Play with TensorRT?
-* (medium-term) Clean and push PoX.
-* (long-term) Experiment a toy-example w/ GANs, and w/ Deep RL.
-
 <!--
 **alxyok/alxyok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
