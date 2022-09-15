@@ -2,12 +2,9 @@
 
 Welcome to my slice of world. 
 
-___I am a hands-on engineer___ interested in many curious stuff including deep learning, and especially: 
-* Deep Learning as a tool to understand and mimic human cognition.
-* GNNs, GCNs, GATs, GraphUNets. Because graphs are flexible, powerful, and naturally emerge in a multitude of real-life situations.
-* Physics-informed ML that ensure fundamental physics properties are effectively captured by the neural model.
+___I am a hands-on engineer___ interested in solving real, hard problems at scale. Most of my work is challenged by philosophical questions throughout.
 
-Most of the public code reflects the efforts I've dedicated to exploring exciting tech the hard way, just because I understand by doing mostly — expect dev quality no more. In here, I tend to crush the exploration vs. exploitation tradeoff in favor of the former in the sake of thirst for knowledge.
+The public code reflects the efforts I've dedicated to exploring exciting tech the hard way, just because I understand by doing mostly — expect dev quality no more. In here, I tend to crush the exploration vs. exploitation tradeoff in favor of the former in the sake of thirst for knowledge.
 
 This place is the opportunity for me to peacefully contribute the Internet's noise.
 
