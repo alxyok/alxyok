@@ -4,7 +4,7 @@ Welcome to my slice of world.
 
 ___I am a hands-on engineer___ interested in solving real, hard problems at scale. Most of my work is challenged by philosophical questions throughout.
 
-The public code reflects the efforts I've dedicated to exploring exciting tech the hard way, just because I understand by doing mostly — expect dev quality no more. In here, I tend to crush the exploration vs. exploitation tradeoff in favor of the former in the sake of thirst for knowledge.
+The public code reflects the efforts I've dedicated to exploring exciting tech the hard way, just because I understand by doing mostly — <ins>**EXPECT DEV QUALITY NO MORE**</ins>. In here, I tend to crush the exploration vs. exploitation tradeoff in favor of the former in the sake of thirst for knowledge.
 
 This place is the opportunity for me to peacefully contribute the Internet's noise.
 
