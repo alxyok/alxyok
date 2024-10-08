@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Welcome to my slice of world. 
+__Hands-on engineer here__.
 
-___I am a hands-on engineer___ interested in solving real, hard problems at scale. Most of my work is challenged by philosophical questions throughout.
+Welcome to my slice of world. This place is my peacefully contribution the Internet's noise.
 
-The public code reflects the efforts I've dedicated to exploring exciting tech the hard way, just because I understand by doing mostly — <ins>**EXPECT DEV QUALITY NO MORE**</ins>. In here, I tend to crush the exploration vs. exploitation tradeoff in favor of the former in the sake of thirst for knowledge.
+<ins>**DEV QUALITY NO MORE**</ins>.
 
-This place is the opportunity for me to peacefully contribute the Internet's noise.
+
 
 <!--
 **alxyok/alxyok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
