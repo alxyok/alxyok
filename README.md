@@ -2,7 +2,7 @@
 
 __Hands-on engineer here__.
 
-Welcome to my slice of world. This place is my peacefully contribution the Internet's noise.
+Welcome to my slice of world. This place is my peaceful contribution the Internet's noise.
 
 <ins>**DEV QUALITY NO MORE**</ins>.
 
